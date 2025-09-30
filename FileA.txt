@@ -3,4 +3,8 @@ Changes here
 
 Another line
 
+<<<<<<< HEAD
 Changes branch testing2
+=======
+Changes branch ++
+>>>>>>> testing2
